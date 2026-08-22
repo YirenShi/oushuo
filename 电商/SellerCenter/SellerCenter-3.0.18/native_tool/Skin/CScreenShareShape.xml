@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Window size="112,178" showshadow="true" shadowimage="shadow.png" shadowcorner="23,13,23,33">  
+<Font name="微软雅黑" size="12" bold="false"  default="true" />
+<VerticalLayout name="shapegroup" width="112" height="144" bkcolor="#FF272B3A">
+    <Option name="Btn_Curve"     width="112" height="34" padding="0,4,0,0" textcolor="0xFFFFFFFF" text="笔"     textpadding="34,10,0,10"  align="left"  normalimage="res='share/pen.png' dest='10,7,30,27'" selectedimage="res='share/pen.png' dest='10,7,30,27'" group="shape" selected="true" />
+	<Option name="Btn_Ellipse"   width="112" height="34" padding="0,0,0,0" textcolor="0xFFFFFFFF" text="椭圆形" textpadding="34,10,0,10"  align="left" normalimage="res='share/ellipse.png' dest='10,7,30,27'" selectedimage="res='share/ellipse.png' dest='10,7,30,27'" group="shape" />
+	<Option name="Btn_Rectangle" width="112" height="34" padding="0,0,0,0" textcolor="0xFFFFFFFF" text="矩形"   textpadding="34,10,0,10"  align="left"  normalimage="res='share/rect.png' dest='10,7,30,27'" selectedimage="res='share/rect.png' dest='10,7,30,27'" group="shape" />
+	<Option name="Btn_Arrow"     width="112" height="34" padding="0,0,0,4" textcolor="0xFFFFFFFF" text="箭头"   textpadding="34,10,0,10" align="left"  normalimage="res='share/arrow.png' dest='10,7,30,27'" selectedimage="res='share/arrow.png' dest='10,7,30,27'" group="shape" />
+</VerticalLayout>
+</Window>

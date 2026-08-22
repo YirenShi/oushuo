@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Window size="640,661" showshadow="true" shadowimage="shadow.png" shadowcorner="23,13,23,33">
+	<Font name="微软雅黑" size="18" bold="true" default="true"/>
+	<Font name="微软雅黑" size="13" bold="false"/>
+	<VerticalLayout name="ScreenCatchUI" >
+	</VerticalLayout>
+</Window>

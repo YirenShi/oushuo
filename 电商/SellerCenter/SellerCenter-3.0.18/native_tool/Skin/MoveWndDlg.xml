@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="1280,800"  showshadow="true" shadowimage="shadow.png" shadowcorner="23,13,23,33" caption="0,0,0,32">
+	<Font name="微软雅黑" size="14" bold="false"  default="true" />
+    <VerticalLayout name="ScreenCatchUI" width="1280" height="800" bkcolor="#FFD8D8D8">
+        <HorizontalLayout height="32" bkcolor="#FFFFFFFF">
+        	<VerticalLayout width="76" height="32"/>
+            <VerticalLayout height="32">
+            	<HorizontalLayout height="32">
+                    <!-- <VerticalLayout height="32" />
+                    <VerticalLayout height="32"> -->
+                    	<Label align="center" height="22" padding="0,10,0,0" text="图片编辑" disable="true" textcolor="#FF121213" name="btn1"/>
+                    <!-- </VerticalLayout>                    
+                    <VerticalLayout height="32" /> -->
+            	</HorizontalLayout>
+            </VerticalLayout>
+            <VerticalLayout width="76" height="32">
+            	<HorizontalLayout>
+            	<Button name="Btn_Min" width="20" height="20" padding="2,0,0,0" tooltip="最小化" normalimage="res='imageedit/wndmin.png'" pushedimage="res='imageedit/wndmin.png'" />
+            	<Button name="Btn_Max" width="20" height="20" padding="6,0,0,0"  tooltip="最大化" normalimage="res='imageedit/wndmax.png'" pushedimage="res='imageedit/wndmax.png'" />
+            	<Button name="Btn_Restore" width="20" height="20" visible="false" padding="6,0,0,0" tooltip="还原" normalimage="res='imageedit/wndrestore.png'" pushedimage="res='imageedit/wndrestore.png'" />
+            	<Button name="Btn_Close" width="20" height="20" padding="6,0,0,0" tooltip="关闭" normalimage="res='imageedit/wndclose.png'" pushedimage="res='imageedit/wndclose.png'" />
+            	</HorizontalLayout>
+			</VerticalLayout>
+        </HorizontalLayout>
+        <HorizontalLayout height="50" bkcolor="#FFFFFFFF">
+            <VerticalLayout height="50" width="88"/>
+            <VerticalLayout height="50"/>
+            <VerticalLayout width="260" height="50">
+				<HorizontalLayout width="260"  height="50" inset="0,10,0,0" bkcolor="#FFFFFFFF">
+					<Option name="Btn_Rectangle" width="20" height="20" padding="0,0,0,0" tooltip="方框" normalimage="res='imageedit/rect.png'" selectedimage="res='imageedit/rect_click.png'" group="ToolGroup" />
+					<Option name="Btn_Ellipse" width="20" height="20" padding="20,0,0,0" tooltip="椭圆" normalimage="res='imageedit/ellipse.png'" selectedimage="res='imageedit/ellipse_click.png'" group="ToolGroup" />	
+					<Option name="Btn_Arrow" width="20" height="20" padding="20,0,0,0" tooltip="箭头" normalimage="res='imageedit/arrow.png'" selectedimage="res='imageedit/arrow_click.png'" group="ToolGroup" />
+					<Option name="Btn_Mosaic" width="20" height="20" padding="20,0,0,0" tooltip="马赛克" normalimage="res='imageedit/mosaic.png'" selectedimage="res='imageedit/mosaic_click.png'" group="ToolGroup" />
+					<Option name="Btn_Text" width="20" height="20" padding="20,0,0,0" tooltip="文本" normalimage="res='imageedit/text.png'" selectedimage="res='imageedit/text_click.png'" group="ToolGroup" />
+					<Option name="Btn_Curve" width="20" height="20" padding="20,0,0,0" tooltip="曲线" normalimage="res='imageedit/curve.png'" selectedimage="res='imageedit/curve_click.png'" group="ToolGroup" />
+					<Button name="Btn_Undo" width="20" height="20" padding="20,0,0,0" tooltip="撤销" disabledimage="res='imageedit/undo_disabled.png'" normalimage="res='imageedit/undo.png'" pushedimage="res='imageedit/undo_click.png'" />
+                </HorizontalLayout>
+			</VerticalLayout>
+			<VerticalLayout height="50"/>
+			<VerticalLayout height="50" width="88">
+				<Button name="Btn_Forward" width="68" height="28" padding="0,6,0,0" bkcolor="#FF5092DD" textcolor="#FFFFFFFF" borderround="2,2" bordersize="1" bordercolor="#FF5092DD" text="转发" />
+			</VerticalLayout>
+        </HorizontalLayout>
+		<HorizontalLayout>
+			
+		</HorizontalLayout>
+    </VerticalLayout>
+</Window>

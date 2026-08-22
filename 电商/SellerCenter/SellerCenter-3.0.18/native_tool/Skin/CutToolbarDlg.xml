@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Window size="86,38" showshadow="true" shadowimage="shadow.png" shadowcorner="23,13,23,33">  <!-- 280 = 9(按钮数量)*30(按钮宽度) + 5(边距)*2-->
+<HorizontalLayout width="86"  height="38" inset="7,7,7,7" bkcolor="#FF383838">
+	<Button name="Btn_CutQuit" width="24" height="24" padding="8,0,0,0" tooltip="退出" bkimage="res='icon_cancel.png'  "/>
+	<Button name="Btn_CutComplete" width="24" height="24" padding="8,0,0,0" tooltip="完成" bkimage="res='icon_confirm.png'  "/>
+</HorizontalLayout>
+</Window>

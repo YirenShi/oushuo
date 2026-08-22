@@ -1,0 +1,304 @@
+[15508:23256:1228/101210.664:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[15508:23256:1228/101210.664:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[15508:23256:1228/101211.031:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[15508:23256:1228/101211.031:INFO:chromium_ipc.cc(74)] CreateChannel render_14911300
+[15508:23256:1228/101211.031:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_14911300
+[15508:23256:1228/101211.031:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_14911300
+[15508:24632:1228/101211.032:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_14911300
+[15508:24632:1228/101211.032:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_14911300
+[15508:24632:1228/101211.032:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_14911300
+[15508:24632:1228/101211.032:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_14911300
+[15508:24632:1228/101211.032:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_14911300 MODE_CLIENT
+[15508:24632:1228/101211.032:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_14911300
+[15508:24632:1228/101211.032:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_14911300
+[13640:23012:1228/101718.561:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[13640:23012:1228/101718.561:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[13640:23012:1228/101718.612:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[13640:23012:1228/101718.612:INFO:chromium_ipc.cc(74)] CreateChannel render_17986951
+[13640:23012:1228/101718.612:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_17986951
+[13640:23012:1228/101718.612:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_17986951
+[13640:22208:1228/101718.612:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_17986951
+[13640:22208:1228/101718.613:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_17986951
+[13640:22208:1228/101718.613:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_17986951
+[13640:22208:1228/101718.613:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_17986951
+[13640:22208:1228/101718.613:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_17986951 MODE_CLIENT
+[13640:22208:1228/101718.613:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_17986951
+[13640:22208:1228/101718.613:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_17986951
+[1708:25288:1228/101719.726:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[1708:25288:1228/101719.726:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[1708:25288:1228/101719.752:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[1708:25288:1228/101719.752:INFO:chromium_ipc.cc(74)] CreateChannel render_17998582
+[1708:25288:1228/101719.752:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_17998582
+[1708:25288:1228/101719.752:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_17998582
+[1708:23848:1228/101719.752:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_17998582
+[1708:23848:1228/101719.752:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_17998582
+[1708:23848:1228/101719.752:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_17998582
+[1708:23848:1228/101719.752:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_17998582
+[1708:23848:1228/101719.752:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_17998582 MODE_CLIENT
+[1708:23848:1228/101719.752:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_17998582
+[1708:23848:1228/101719.754:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_17998582
+[13640:22208:1228/130748.724:INFO:chromium_ipc_channel_impl.cc(198)] ChannelImpl::OnDisConnect render_17986951
+[13640:22208:1228/130748.725:INFO:chromium_ipc_receiver.cc(47)] ChannelReceiver::OnConnectionError render_17986951
+[13640:22208:1228/130748.725:INFO:chromium_ipc_channel_impl.cc(198)] ChannelImpl::OnDisConnect render_17986951
+[25392:25396:1230/105319.978:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[25392:25396:1230/105319.978:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[25392:25396:1230/105320.387:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[25392:25396:1230/105320.387:INFO:chromium_ipc.cc(74)] CreateChannel render_733630
+[25392:25396:1230/105320.387:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_733630
+[25392:25396:1230/105320.387:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_733630
+[25392:25652:1230/105320.388:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_733630
+[25392:25652:1230/105320.389:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_733630
+[25392:25652:1230/105320.389:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_733630
+[25392:25652:1230/105320.389:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_733630
+[25392:25652:1230/105320.389:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_733630 MODE_CLIENT
+[25392:25652:1230/105320.389:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_733630
+[25392:25652:1230/105320.389:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_733630
+[19816:2032:1231/105749.587:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[19816:2032:1231/105749.587:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[19816:2032:1231/105749.814:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[19816:2032:1231/105749.814:INFO:chromium_ipc.cc(74)] CreateChannel render_618660
+[19816:2032:1231/105749.814:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_618660
+[19816:2032:1231/105749.814:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_618660
+[19816:20364:1231/105749.814:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_618660
+[19816:20364:1231/105749.815:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_618660
+[19816:20364:1231/105749.815:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_618660
+[19816:20364:1231/105749.815:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_618660
+[19816:20364:1231/105749.815:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_618660 MODE_CLIENT
+[19816:20364:1231/105749.815:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_618660
+[19816:20364:1231/105749.815:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_618660
+[23776:8188:0102/154132.558:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[23776:8188:0102/154132.560:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[23776:8188:0102/154132.729:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[23776:8188:0102/154132.729:INFO:chromium_ipc.cc(74)] CreateChannel render_1047820
+[23776:8188:0102/154132.729:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_1047820
+[23776:8188:0102/154132.729:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_1047820
+[23776:18792:0102/154132.730:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_1047820
+[23776:18792:0102/154132.730:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_1047820
+[23776:18792:0102/154132.730:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_1047820
+[23776:18792:0102/154132.730:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_1047820
+[23776:18792:0102/154132.730:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_1047820 MODE_CLIENT
+[23776:18792:0102/154132.730:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_1047820
+[23776:18792:0102/154132.731:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_1047820
+[1840:1836:0103/122524.866:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[1840:1836:0103/122524.867:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[1840:1836:0103/122525.455:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[1840:1836:0103/122525.455:INFO:chromium_ipc.cc(74)] CreateChannel render_644060
+[1840:1836:0103/122525.455:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_644060
+[1840:1836:0103/122525.455:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_644060
+[1840:23584:0103/122525.456:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_644060
+[1840:23584:0103/122525.456:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_644060
+[1840:23584:0103/122525.456:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_644060
+[1840:23584:0103/122525.456:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_644060
+[1840:23584:0103/122525.456:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_644060 MODE_CLIENT
+[1840:23584:0103/122525.456:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_644060
+[1840:23584:0103/122525.456:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_644060
+[21760:14296:0103/125521.352:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[21760:14296:0103/125521.353:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[21760:14296:0103/125521.843:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[21760:14296:0103/125521.843:INFO:chromium_ipc.cc(74)] CreateChannel render_18664310
+[21760:14296:0103/125521.843:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_18664310
+[21760:14296:0103/125521.843:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_18664310
+[21760:20372:0103/125521.843:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_18664310
+[21760:20372:0103/125521.844:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_18664310
+[21760:20372:0103/125521.844:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_18664310
+[21760:20372:0103/125521.844:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_18664310
+[21760:20372:0103/125521.844:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_18664310 MODE_CLIENT
+[21760:20372:0103/125521.844:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_18664310
+[21760:20372:0103/125521.844:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_18664310
+[23004:23028:0104/113546.663:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[23004:23028:0104/113546.663:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[23004:23028:0104/113546.980:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[23004:23028:0104/113546.980:INFO:chromium_ipc.cc(74)] CreateChannel render_700280
+[23004:23028:0104/113546.980:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_700280
+[23004:23028:0104/113546.980:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_700280
+[23004:22968:0104/113546.981:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_700280
+[23004:22968:0104/113546.981:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_700280
+[23004:22968:0104/113546.982:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_700280
+[23004:22968:0104/113546.982:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_700280
+[23004:22968:0104/113546.982:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_700280 MODE_CLIENT
+[23004:22968:0104/113546.982:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_700280
+[23004:22968:0104/113546.982:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_700280
+[24452:24456:0107/113721.424:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[24452:24456:0107/113721.425:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[24452:24456:0107/113721.988:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[24452:24456:0107/113721.988:INFO:chromium_ipc.cc(74)] CreateChannel render_779770
+[24452:24456:0107/113721.988:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_779770
+[24452:24456:0107/113721.988:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_779770
+[24452:6276:0107/113721.988:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_779770
+[24452:6276:0107/113721.988:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_779770
+[24452:6276:0107/113721.989:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_779770
+[24452:6276:0107/113721.989:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_779770
+[24452:6276:0107/113721.989:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_779770 MODE_CLIENT
+[24452:6276:0107/113721.989:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_779770
+[24452:6276:0107/113721.989:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_779770
+[23664:23668:0108/141049.636:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[23664:23668:0108/141049.636:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[23664:23668:0108/141049.953:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[23664:23668:0108/141049.953:INFO:chromium_ipc.cc(74)] CreateChannel render_690030
+[23664:23668:0108/141049.953:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_690030
+[23664:23668:0108/141049.953:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_690030
+[23664:24068:0108/141049.953:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_690030
+[23664:24068:0108/141049.954:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_690030
+[23664:24068:0108/141049.954:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_690030
+[23664:24068:0108/141049.954:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_690030
+[23664:24068:0108/141049.954:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_690030 MODE_CLIENT
+[23664:24068:0108/141049.954:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_690030
+[23664:24068:0108/141049.954:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_690030
+[20668:20644:0112/155843.735:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[20668:20644:0112/155843.735:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[20668:20644:0112/155846.130:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[20668:20644:0112/155846.130:INFO:chromium_ipc.cc(74)] CreateChannel render_671800
+[20668:20644:0112/155846.130:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_671800
+[20668:20644:0112/155846.130:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_671800
+[20668:21568:0112/155846.130:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_671800
+[20668:21568:0112/155846.130:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_671800
+[20668:21568:0112/155846.131:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_671800
+[20668:21568:0112/155846.131:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_671800
+[20668:21568:0112/155846.131:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_671800 MODE_CLIENT
+[20668:21568:0112/155846.131:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_671800
+[20668:21568:0112/155846.131:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_671800
+[23208:23376:0113/160449.347:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[23208:23376:0113/160449.347:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[23208:23376:0113/160449.668:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[23208:23376:0113/160449.668:INFO:chromium_ipc.cc(74)] CreateChannel render_717150
+[23208:23376:0113/160449.668:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_717150
+[23208:23376:0113/160449.668:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_717150
+[23208:21024:0113/160449.669:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_717150
+[23208:21024:0113/160449.669:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_717150
+[23208:21024:0113/160449.670:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_717150
+[23208:21024:0113/160449.670:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_717150
+[23208:21024:0113/160449.670:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_717150 MODE_CLIENT
+[23208:21024:0113/160449.670:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_717150
+[23208:21024:0113/160449.670:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_717150
+[10464:7012:0120/155056.818:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[10464:7012:0120/155056.818:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[14448:20344:0121/093310.169:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[14448:20344:0121/093310.169:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[14448:20344:0121/093312.223:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[14448:20344:0121/093312.223:INFO:chromium_ipc.cc(74)] CreateChannel render_832740
+[14448:20344:0121/093312.223:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_832740
+[14448:20344:0121/093312.223:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_832740
+[14448:20896:0121/093312.223:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_832740
+[14448:20896:0121/093312.223:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_832740
+[14448:20896:0121/093312.223:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_832740
+[14448:20896:0121/093312.223:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_832740
+[14448:20896:0121/093312.223:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_832740 MODE_CLIENT
+[14448:20896:0121/093312.223:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_832740
+[14448:20896:0121/093312.223:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_832740
+[21932:17624:0122/104815.500:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[21932:17624:0122/104815.503:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[21932:17624:0122/104815.969:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[21932:17624:0122/104815.969:INFO:chromium_ipc.cc(74)] CreateChannel render_650150
+[21932:17624:0122/104815.969:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_650150
+[21932:17624:0122/104815.969:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_650150
+[21932:22088:0122/104815.970:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_650150
+[21932:22088:0122/104815.970:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_650150
+[21932:22088:0122/104815.970:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_650150
+[21932:22088:0122/104815.970:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_650150
+[21932:22088:0122/104815.970:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_650150 MODE_CLIENT
+[21932:22088:0122/104815.970:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_650150
+[21932:22088:0122/104815.970:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_650150
+[15620:18140:0123/155351.235:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[15620:18140:0123/155351.236:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[15620:18140:0123/155351.743:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[15620:18140:0123/155351.743:INFO:chromium_ipc.cc(74)] CreateChannel render_637950
+[15620:18140:0123/155351.743:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_637950
+[15620:18140:0123/155351.743:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_637950
+[15620:24392:0123/155351.744:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_637950
+[15620:24392:0123/155351.744:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_637950
+[15620:24392:0123/155351.745:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_637950
+[15620:24392:0123/155351.745:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_637950
+[15620:24392:0123/155351.745:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_637950 MODE_CLIENT
+[15620:24392:0123/155351.745:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_637950
+[15620:24392:0123/155351.745:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_637950
+[25372:25376:0125/133305.416:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[25372:25376:0125/133305.416:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[25372:25376:0125/133307.536:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[25372:25376:0125/133307.536:INFO:chromium_ipc.cc(74)] CreateChannel render_715820
+[25372:25376:0125/133307.536:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_715820
+[25372:25376:0125/133307.536:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_715820
+[25372:24896:0125/133307.537:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_715820
+[25372:24896:0125/133307.537:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_715820
+[25372:24896:0125/133307.537:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_715820
+[25372:24896:0125/133307.537:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_715820
+[25372:24896:0125/133307.537:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_715820 MODE_CLIENT
+[25372:24896:0125/133307.537:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_715820
+[25372:24896:0125/133307.537:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_715820
+[22504:22508:0128/122436.066:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[22504:22508:0128/122436.066:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[22504:22508:0128/122436.585:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[22504:22508:0128/122436.585:INFO:chromium_ipc.cc(74)] CreateChannel render_1046350
+[22504:22508:0128/122436.585:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_1046350
+[22504:22508:0128/122436.585:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_1046350
+[22504:10108:0128/122436.586:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_1046350
+[22504:10108:0128/122436.586:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_1046350
+[22504:10108:0128/122436.587:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_1046350
+[22504:10108:0128/122436.587:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_1046350
+[22504:10108:0128/122436.587:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_1046350 MODE_CLIENT
+[22504:10108:0128/122436.587:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_1046350
+[22504:10108:0128/122436.587:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_1046350
+[23024:4868:0131/141757.002:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[23024:4868:0131/141757.003:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[23024:4868:0131/141757.448:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[23024:4868:0131/141757.448:INFO:chromium_ipc.cc(74)] CreateChannel render_684970
+[23024:4868:0131/141757.448:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_684970
+[23024:4868:0131/141757.448:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_684970
+[23024:1292:0131/141757.450:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_684970
+[23024:1292:0131/141757.450:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_684970
+[23024:1292:0131/141757.450:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_684970
+[23024:1292:0131/141757.450:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_684970
+[23024:1292:0131/141757.450:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_684970 MODE_CLIENT
+[23024:1292:0131/141757.450:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_684970
+[23024:1292:0131/141757.450:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_684970
+[21728:22192:0201/101832.826:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[21728:22192:0201/101832.826:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[21728:22192:0201/101833.366:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[21728:22192:0201/101833.366:INFO:chromium_ipc.cc(74)] CreateChannel render_684160
+[21728:22192:0201/101833.366:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_684160
+[21728:22192:0201/101833.366:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_684160
+[21728:2116:0201/101833.366:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_684160
+[21728:2116:0201/101833.367:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_684160
+[21728:2116:0201/101833.367:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_684160
+[21728:2116:0201/101833.367:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_684160
+[21728:2116:0201/101833.367:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_684160 MODE_CLIENT
+[21728:2116:0201/101833.367:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_684160
+[21728:2116:0201/101833.367:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_684160
+[11536:20756:0204/111117.296:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[11536:20756:0204/111117.296:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[11536:20756:0204/111117.672:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[11536:20756:0204/111117.672:INFO:chromium_ipc.cc(74)] CreateChannel render_637210
+[11536:20756:0204/111117.672:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_637210
+[11536:20756:0204/111117.672:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_637210
+[11536:21724:0204/111117.672:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_637210
+[11536:21724:0204/111117.672:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_637210
+[11536:21724:0204/111117.674:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_637210
+[11536:21724:0204/111117.674:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_637210
+[11536:21724:0204/111117.674:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_637210 MODE_CLIENT
+[11536:21724:0204/111117.674:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_637210
+[11536:21724:0204/111117.674:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_637210
+[22600:22604:0305/110459.578:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[22600:22604:0305/110459.579:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[22600:22604:0305/110500.200:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[22600:22604:0305/110500.200:INFO:chromium_ipc.cc(74)] CreateChannel render_571940
+[22600:22604:0305/110500.200:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_571940
+[22600:22604:0305/110500.200:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_571940
+[22600:22784:0305/110500.201:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_571940
+[22600:22784:0305/110500.201:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_571940
+[22600:22784:0305/110500.201:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_571940
+[22600:22784:0305/110500.201:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_571940
+[22600:22784:0305/110500.201:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_571940 MODE_CLIENT
+[22600:22784:0305/110500.201:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_571940
+[22600:22784:0305/110500.201:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_571940
+[27392:31792:0322/102448.957:INFO:chromium_ipc_manager.cc(20)] ChannelManager::ChannelManager
+[27392:31792:0322/102448.959:INFO:chromium_ipc.cc(66)] InitIPC ipc init success.
+[27392:31792:0322/102449.416:WARNING:chromium_ipc.cc(37)] InitIPC ipc has inited.
+[27392:31792:0322/102449.416:INFO:chromium_ipc.cc(74)] CreateChannel render_2296194580
+[27392:31792:0322/102449.416:INFO:chromium_ipc_manager.cc(45)] ChannelManager::CreateChannel render_2296194580
+[27392:31792:0322/102449.416:INFO:chromium_ipc_channel_impl.cc(18)] ChannelImpl::ChannelImpl render_2296194580
+[27392:10248:0322/102449.417:INFO:chromium_ipc_channel_impl.cc(67)] ChannelImpl::ConnectAsServer render_2296194580
+[27392:10248:0322/102449.417:INFO:chromium_ipc_channel_impl.cc(98)] ChannelImpl::ConnectAsClient render_2296194580
+[27392:10248:0322/102449.417:INFO:chromium_ipc_receiver.cc(13)] ChannelReceiver::ChannelReceiver render_2296194580
+[27392:10248:0322/102449.417:INFO:chromium_ipc_channel_impl.cc(205)] ChannelImpl::OnConnect render_2296194580
+[27392:10248:0322/102449.417:INFO:chromium_ipc_channel_impl.cc(120)] ChannelImpl::ConnectAsClient render_2296194580 MODE_CLIENT
+[27392:10248:0322/102449.417:INFO:chromium_ipc_channel_impl.cc(60)] ChannelImpl::Connect start connected render_2296194580
+[27392:10248:0322/102449.417:INFO:chromium_ipc_receiver.cc(34)] ChannelReceiver::GetSender render_2296194580

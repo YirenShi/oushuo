@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Window size="188,32" showshadow="true" shadowimage="shadow.png" shadowcorner="23,13,23,33">  
+<HorizontalLayout name="colorgroup" width="188" height="32" bkcolor="#FF2D3142">
+	<Option name="Btn_Red"    height="16" width="16" padding="16,8,0,0" selected="true" normalimage="red.png" selectedimage="res='red1.png'" hotimage="red1.png" group="Color" />
+	<Option name="Btn_Blue"   height="16" width="16" padding="12,8,0,0" normalimage="blue.png" selectedimage="blue1.png" hotimage="blue1.png" group="Color" />
+	<Option name="Btn_Green"  height="16" width="16" padding="12,8,0,0" normalimage="green.png" selectedimage="green1.png" hotimage="green1.png" group="Color" />
+	<Option name="Btn_Yellow" height="16" width="16" padding="12,8,0,0" normalimage="yellow.png" selectedimage="yellow1.png" hotimage="yellow1.png" group="Color" />
+	<Option name="Btn_Black"  height="16" width="16" padding="12,8,0,0" normalimage="gray.png" selectedimage="gray1.png" hotimage="gray1.png" group="Color" />
+	<Option name="Btn_White"  height="16" width="16" padding="12,8,0,0" normalimage="white.png" selectedimage="white1.png" hotimage="white1.png" group="Color"/>
+</HorizontalLayout>
+</Window>

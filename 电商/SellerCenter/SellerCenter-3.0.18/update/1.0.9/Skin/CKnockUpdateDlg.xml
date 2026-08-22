@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Window size="318,230" showshadow="true" shadowimage="shadow.png" shadowcorner="23,13,23,33" roundcorner="4,4">
+	<Font name="微软雅黑" size="14" bold="false"  default="true" />
+	<Font name="微软雅黑" size="14" bold="false" /> 
+	<VerticalLayout width="318" height="230" bkcolor="#FFFFFFFF">	
+		<VerticalLayout name="mainArea"  height="230" >
+			<GifControl name="headPic" width="90" height="90" padding="114,40,114" gifimage="rocketloading.gif"/>
+			<HorizontalLayout  padding="0,6" height="20">
+				<Control/>
+				<Label name="title" text="升级中..." height="19" width="100" align="center" textcolor="#33000000" endellipsis="true" font="1"/>
+				<Text name="url" text="参考" visible="false" height="19" width="60" showhtml="true" browserenable="true" font="1"/>
+				<Control/>
+			</HorizontalLayout>
+			
+			<Label name="title1" text="升级期间请勿使用SellerCenter！" height="19" width="318" align="center" textcolor="#33000000" endellipsis="true" font="1"/>
+			<HorizontalLayout height="50">
+				<Option name="ok" text="关闭" visible="false" height="28" width="80" padding="69,13" borderround="2,2" bkcolor="#ff5092dd" hotbkcolor="#ff4986cb" focusbordercolor="#ff437ab9" textcolor="#ffffffff" />
+				<Option name="retry" text="手动升级" visible="false" height="28" width="80" padding="20,13" borderround="2,2" bkcolor="#ff5092dd" hotbkcolor="#ff4986cb" focusbordercolor="#ff437ab9" textcolor="#ffffffff" />
+			</HorizontalLayout>
+			<Control/>
+		</VerticalLayout>
+	</VerticalLayout>
+</Window>
