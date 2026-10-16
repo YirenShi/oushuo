@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<Window size="20,43">
-	<Font name="微软雅黑" id="0" size="16" bold="false"/>
-	<Font name="微软雅黑" id="1" size="21" bold="false" default="true"/>
-	<Font name="微软雅黑" id="2" size="32" bold="false"/>
-	<VerticalLayout bkcolor="#00FFFFFF">
-		<BitMapBkEdit name="Txt_Input" width="20" height="43" align="left" childpadding="0" multiline="true" transparent="true" autovscroll="true" autohscroll="false" inset="5,5,5,5" textcolor="FF0000FF" bordersize="1" bordercolor="#FFFF0000"/>
-	</VerticalLayout>
-</Window>

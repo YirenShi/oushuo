@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<Window size="298,108" showshadow="true" shadowimage="shadow.png" shadowcorner="23,13,23,33">
-	<Font name="微软雅黑" size="16" bold="false"  default="true" id="0"/>
-	<Font name="微软雅黑" size="12" bold="false" id="1"/>
-<VerticalLayout width="298"  height="108" bkcolor="#FFFFFFFF">
-    <Label align="center" height="18" width="176" padding="24,24,0,0" text="图片已撤回，暂不可编辑" textcolor="#FF333333"/>
-	<Button name="Btn_Done" width="64" height="24" padding="210,24,0,0" bkcolor="#FF5092DD" textcolor="#FFFFFFFF" borderround="2,2" bordersize="1" bordercolor="#FF5092DD" text="知道了" font="1"/>
-</VerticalLayout>
-</Window>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<Window size="800,600">
-	<Font name="微软雅黑" size="14" bold="false"  default="true" />
-	<Font name="微软雅黑" size="14" bold="false" /> 
-	<VerticalLayout name="ScreenShareUI" bkcolor="0xFFB79DE2">
-		
-	</VerticalLayout>
-	
-</Window>
